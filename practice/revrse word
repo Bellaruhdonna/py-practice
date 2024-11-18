@@ -1,0 +1,4 @@
+word = list(input("enetr word: "))
+word.reverse()
+print(word)
+
